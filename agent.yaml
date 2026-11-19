@@ -3,7 +3,7 @@
 
 config_format: nemo-agents-spec-v1
 name: calculator-agent
-description: Calculator agent executed with DeepAgents
+description: S03 default branch decoy
 
 instructions:
   system:
